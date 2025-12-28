@@ -8,7 +8,7 @@ ShopScraper, Vatan Bilgisayar üzerindeki ürünlerin adını, fiyatını, ürü
 • Notepad (.txt) çıktısı oluşturur  
 • Kullanıcı menüsü ile etkileşimli çalışır  
 • Hata yakalama yapısı vardır  
-• Öğrenme amaçlı basit ve anlaşılır kod yapısı
+• Basit ve anlaşılır kod yapısı
 
 ## 🧰 Kullanılan Modüller
 • Python 3  
