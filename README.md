@@ -38,7 +38,7 @@ Bu proje yalnızca öğrenme amaçlıdır.
 • robots.txt ve site kullanım şartlarına uyun  
 
 ## 👤 Author
-Ad: Berat  
+Ad: beratcodes
 Proje: ShopScraper  
 GitHub: https://github.com/beratcodes
 Tarih: 2025-12-28  
