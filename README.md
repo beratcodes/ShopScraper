@@ -41,6 +41,6 @@ Bu proje yalnızca öğrenme amaçlıdır.
 Ad: Berat  
 Proje: ShopScraper  
 GitHub: https://github.com/beratcodes
-Tarih: 2025-01-01  
+Tarih: 2025-12-28  
 
 ⭐ Eğer projeyi beğenirsen star vermeyi unutma.
