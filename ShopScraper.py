@@ -41,7 +41,7 @@ def exportToNotepad():
             get_product_code = i.find("div", {"class": "product-list__product-code"}).text.strip()
             get_product_link = i.find("a", {"class": "product-list__link"}).get("href")
 
-            file.write(f"{count}. {get_header} | {get_price} TL | {get_product_code} | {get_product_link}\n")
+            file.write(f"{count}. Ürün Adı: {get_header}\nÜrün Fiyat: {get_price} TL\n Ürün Kodu: {get_product_code}\n Ürün Linki: {get_product_link}\n------------------------------------------------------\n")
             count += 1
         print("Bilgiler notepad'e aktarılıyor.")
         time.sleep(3)
