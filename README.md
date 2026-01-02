@@ -43,4 +43,6 @@ Proje: ShopScraper
 GitHub: https://github.com/beratcodes
 Tarih: 2025-12-28  
 
+'' git clone https://github.com/beratcodes/ShopScraper.git
+
 ⭐ Eğer projeyi beğenirsen star vermeyi unutma.
